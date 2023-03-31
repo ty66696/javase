@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javaapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/003-变量/javaapi/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/003-变量/javaapi/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/003-变量/javaapi/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
